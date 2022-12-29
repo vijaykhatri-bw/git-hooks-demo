@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "this is a demo project to test git hooks",
   "scripts": {
-    "init-git-hooks": "cp -r \"./gitHooks/\" \"./.git/hooks/\" ",
+    "init-git-hooks": "cp -r \"./gitHooks/.\" \"./.git/hooks/\" ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
